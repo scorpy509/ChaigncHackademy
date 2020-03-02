@@ -79,10 +79,14 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     </td>
  <!-- commenter votre pesudo twitter, et ajouter un numero de id de plus-->
     <td>
-     1
+     2
    </td>
     <td>
          <a href="http://twitter.com/djefferson_sain">@Zorkalel</a>
+    </td>
+
+    <td>
+         <a href="https://mobile.twitter.com/Scorpy509">@Scorpy509</a>
     </td>
  <!--  fin du commentaire -->
   </tr>
